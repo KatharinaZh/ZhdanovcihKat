@@ -11,7 +11,6 @@
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<script src="js/jquery-2.js"></script>
 	</head>
-
 	<body>
 		<header class="header-menu bold">
 			<div class="header-container"> <!-- общий контейнер для боковых отступов -->
