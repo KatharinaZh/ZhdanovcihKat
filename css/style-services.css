@@ -1,0 +1,47 @@
+@media only all and (max-width: 985px){
+	body .main-container .container.address .row .col:first-child {
+		max-width: 1px;
+	}
+	div.col div.container.container-services div.row.row-services div.col#name {
+		max-width: 153px;
+		margin-right: 20px;
+	} 
+	div.row-services { /* для названия пункта, напр дизайн, креатив, чтобы не залазили друг на друга*/
+		margin: 30px 0;
+	}
+}
+
+@media only all and (max-width:850px){
+	body div.container.address div.row div.col {
+	border-bottom: transparent !important;
+	}
+	body div.container.address div.row:first-child {
+		flex-direction: row;
+	}
+}
+
+.main-container .container.address .row .col:first-child {
+	border-right: solid 1px transparent;
+	margin-right: 0px;
+	padding-right: 0;
+	max-width: 200px;
+}
+.container-services {
+	flex-direction: column;
+}
+.row-services {
+	display: flex;
+	margin: 20px 0;
+}
+.col-description {
+	text-align: justify;
+}
+@keyframes MyAnimation
+{
+    from { opacity: 0 }
+    to { opacity: 1 }
+}
+#service
+{
+    animation: MyAnimation 3s;
+}

@@ -1,0 +1,38 @@
+@media only all and (max-width: 850px){
+	body div.container.address div.row div.col:first-child {
+		border-right: solid 1px transparent !important;
+		border-bottom: solid 1px gray;
+		margin-bottom: 20px;
+		padding-right: 0;
+	}
+	div.container.address div.row:first-child {
+		flex-direction: column;
+	}
+}
+.main-container .container.address .row .col:first-child {
+	border-right: solid 1px gray;
+	margin-right: 50px;
+	padding-right: 200px;
+}
+form
+{
+	margin-bottom: 40px;
+}
+.container.adress
+{
+	margin-top: 40px;
+}
+div.main-container div.Hello h1 {
+	/*text-align: center;*/
+	margin-bottom: 20px;
+}
+div.container.adsress {
+	margin: 0;
+}
+.black {
+	color: black;
+}
+div.col form button.button-cyan {
+	background-color: #1abb9c;
+	border-color: #1abb9c;
+}

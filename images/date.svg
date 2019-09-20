@@ -1,0 +1,16 @@
+<svg width="142" height="137" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="139" width="144" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="135" width="140" y="0.749995" x="0.75" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <text font-weight="normal" stroke="#000" transform="matrix(2.956216461145631,0,0,2.4544848153995797,-611.0287691882662,-179.66515459498885) " xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="29" id="svg_2" y="102.958569" x="213.772796" stroke-width="0" fill="#000000">21</text>
+  <text stroke="#000" transform="matrix(2.371734857559204,0,0,1.8878612518310547,-325.787028670311,-182.94103637337685) " xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="24" id="svg_3" y="159.094965" x="145.05712" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">FEB</text>
+ </g>
+</svg>
